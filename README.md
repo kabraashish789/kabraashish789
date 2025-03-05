@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on deep learning<br>👯 I’m looking to collaborate on the topics related to ROS, or Robotics Simulation<br>🤝 I’m looking for help with developing the change detection algorithms in deep learning<br>🌱 I’m currently learning deep learning<br>💬 Ask me about ROS, and Autonomous or Industrial Manipulators<br>⚡ Fun fact - I hate tomatoes
+🔭 I’m currently working on implementing deep learning algorithms<br>👯 I’m looking to collaborate on the topics related to ROS, or Robotics Simulation, or Deep Learning<br>🤝 I’m looking for help with developing the change detection algorithms in deep learning<br>🌱 I’m currently learning deep learning<br>💬 Ask me about ROS, and Autonomous Mobile Robots or Industrial Manipulators<br>⚡ Fun fact - I hate tomatoes
 
 
 ## 🌐 Socials:
